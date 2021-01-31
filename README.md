@@ -1,5 +1,6 @@
 # Simple-Note-App
 simple note app support :
+- insert note , update note , delete specific note , delete all notes 
 - android architecture
 - Room
 - mvvm
