@@ -6,7 +6,7 @@ simple note app support :
 - liveData
 - lifecycle
 - viewModel
-- animation 
+- swipe with animation 
 - recyclerView
 
 
